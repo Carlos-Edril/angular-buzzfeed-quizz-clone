@@ -1,55 +1,55 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Você deve usar Vandal ou Phantom no Valorant?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Como você atira?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Spray controlado", "alias":"B"},
+        {"id": 2, "name":"Spray sem parar", "alias":"B"},
+        {"id": 3, "name":"Taps", "alias":"A"},
+        {"id": 4, "name":"Só sei usar skill", "alias":"B"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Prefere mapas longos ou curtos?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Longos, amo Lotus e Heaven.", "alias":"A"},
+        {"id": 2, "name":"Curtos, adoro Sunset e Split", "alias":"B"},
+        {"id": 3, "name":"Não saberia escolher", "alias":"A"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Tem a mira ideal pra acertar na cabeça?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Sim!", "alias":"A"},
+        {"id": 2, "name":"Dá pra melhorar...", "alias":"A"},
+        {"id": 3, "name":"O que é cabeça?", "alias":"B"}
       ]
     },
     {
       "id":4,
       "question": "Qual o seu maior foco ?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Ganhar pontos", "alias":"B"},
+        {"id": 2, "name":"fazer highlights", "alias":"A"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Qual sua classe favorita?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Iniciador", "alias":"B"},
+        {"id": 2, "name":"Controlador", "alias":"B"},
+        {"id": 1, "name":"Duelista", "alias":"A"},
+        {"id": 1, "name":"Sentinela", "alias":"A"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você muito provavelmente deveria usar Vandal!",
+    "B": "Você muito provavelmente deveria usar Phantom!"
   }
 }
